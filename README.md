@@ -1,5 +1,5 @@
 # Employee Management System
-Project Description
+Project Description :
 This is an MVC web application built using .NET that serves as an employee management system. It demonstrates a three-tier architecture with the following layers:
   - Business Logic Layer (BLL): Contains the Generic Repository.
   - Data Access Layer (DAL): Manages models, database context, and migrations.
